@@ -6,9 +6,9 @@ Le cours Cloud/DevOps permet d'approfondir la connaissance des concepts fondamen
 Il s’agit d’acquérir une expérience concrète dans la configuration et la gestion de plateformes de virtualisation, la mise en place de systèmes de gestion de versions, la création et le déploiement de conteneurs, et l'implémentation de pipelines de développement automatisés. Ces compétences permettent de comprendre et de maîtriser les outils et les processus modernes utilisés pour assurer une livraison rapide et fiable des applications dans des environnements de production.
 
 * Contributeurs
-- [[https://danilo-carastan-santos.github.io/][Danilo Carastan-Santos]] - Responsable, Cours
-- Gérard FORESTIER - TP 
-- Dimitri RAPACCHI - TP
+
+- Pierre-François Dutot - Enseignant
+- [[https://danilo-carastan-santos.github.io/][Danilo Carastan-Santos]] - Auteur des supports actuels
 
 * Structure du dépôt
 - [[./Sessions][Sessions]] : contient le matériel de cours pour chaque année et fiière.
@@ -27,6 +27,8 @@ Il s’agit d’acquérir une expérience concrète dans la configuration et la 
         - Conteneurs  
     4. Applications "Cloud Native"
     	- Microservices
+	- Google Cloud Platform
+	- Google Kubernetes Engine
     5. L'impact environnemental du Cloud  
     
 * Support Additionnel (Merci Thomas Ropars et Renaud Lachaize)
